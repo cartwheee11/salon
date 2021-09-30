@@ -1,6 +1,5 @@
 new WOW().init();
 
-
 window.onload = function(){
 
     
@@ -16,12 +15,6 @@ window.onload = function(){
          prevEl: '.swiper-button-prev',
        }
      });
-
-
-
-
-
-
 
 
      //АДАПТАЦИЯ
